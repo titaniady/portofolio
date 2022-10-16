@@ -1,0 +1,41 @@
+    html, body{
+        height: 100vh;
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
+
+.header{
+    height: 100%;
+    background-color: rgb(243, 200, 243);
+    color: rgb(15, 15, 14) ;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.profile{
+    padding-top: 200px;
+}
+
+.profile img{
+    border-radius: 100px;
+    width: 10%;
+    /* height: ; */
+
+}
+
+.name{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.job-roles{
+    /* font-weight: bold; */
+    font-size: 20px;
+}
